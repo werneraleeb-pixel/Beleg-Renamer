@@ -1,0 +1,36 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Python (Icon-Generator)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+
+# Alte Version (Electron)
+Alter Code/node_modules/
+
+# Test-Belege mit persönlichen Daten
+Musterbelege/
+
+# Temporäre Dateien
+*.tmp
+*.swp
+*.bak
